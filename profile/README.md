@@ -6,4 +6,12 @@
 
 Developing Windows software.
 
+<details>
+  <summary>
+    https://new.nicrozoft.org
+  </summary>
+
+Checkout our new site!
+It lives in [NicrozoftDEV/nicrozoft-homepage](https://github.com/NicrozoftDEV/nicrozoft-homepage).
+</details>
 </div>
